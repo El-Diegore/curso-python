@@ -9,7 +9,7 @@ Escribe una función en Python que reciba una lista de números enteros y devuel
 
 # Para ver si un número es par
 # siempre usamos el módulo %
-# nos da el resto de la división: eggs % 2 == 2
+# nos da el resto de la división: eggs % 2 == 0
 
 def count_carnivore_dinosaur_eggs(egg_list) -> int:
   """
